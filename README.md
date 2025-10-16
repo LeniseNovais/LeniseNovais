@@ -1,11 +1,13 @@
-# 👋 Olá,mundo! Eu sou Lenise Novais!
+<h1 align="center"> 👋 Olá,mundo! Eu sou Lenise Novais! </h1>
 
 Se você chegou aqui, provavelmente está curioso(a) sobre quem está por trás desse perfil no GitHub, então seja bem-vindo(a)! Aqui, eu compartilho um pouco sobre minha jornada e projetos, tudo isso temperado com criatividade e, claro, alguns códigos. 🎨💻
 
 ---
 
 ### 🧭 Quem sou eu?
-Uma profissional em transição de carreira do mundo comercial para o universo da Tecnologia da Informação. Estudo Gestão de TI na Uninter, mergulhando fundo em áreas como dados, QA, gestão de projetos e programação. Amo analogias com o cotidiano e transformar conceitos técnicos em algo acessível e divertido — porque quem disse que TI precisa ser complicado? 🚀 
+![Static Badge](https://img.shields.io/badge/Lenise-%20Novais?style=flat&logo=undertale&logoColor=white) ![Static Badge](https://img.shields.io/badge/Novais-Ana?style=flat&logoColor=red&color=red)
+
+Uma profissional em transição de carreira do mundo comercial para o universo da Tecnologia da Informação. Estudo Gestão de TI na Uninter, mergulhando fundo em áreas como dados, cyber, gestão de projetos e programação. Amo analogias com o cotidiano e transformar conceitos técnicos em algo acessível e divertido — porque quem disse que TI precisa ser complicado? 🚀 
 
 Resolver problemas é minha especialidade, e eu gosto de pensar fora da caixa. 📈
 
@@ -36,4 +38,8 @@ Se você tem uma ideia legal, um projeto interessante ou simplesmente quer troca
 E claro, aqui no GitHub mesmo!
 
 Let's code and make tech better together! 👩‍💻💡
+
+![Static Badge](https://img.shields.io/badge/Python-py?style=flat&logo=Python&logoColor=white&color=violet) ![Static Badge](https://img.shields.io/badge/CyberSecurity-CS?style=flat&logo=springsecurity&logoColor=white&color=blue) ![Static Badge](https://img.shields.io/badge/Projetos-Gest%C3%A3o?style=flat&logo=codementor&logoColor=white&color=orange)
+
+
 
